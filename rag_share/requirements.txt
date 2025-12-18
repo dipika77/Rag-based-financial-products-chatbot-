@@ -1,0 +1,17 @@
+# Core LangChain
+langchain-core
+langchain-community
+langchain-groq
+langchain-milvus
+
+# Vector database
+pymilvus
+
+# Embeddings
+sentence-transformers
+
+# Document parsing
+python-docx
+
+# Environment
+python-dotenv

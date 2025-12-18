@@ -1,0 +1,18 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+.env
+DEVELOPER_MANUAL.md
+
+# Mac
+.DS_Store
+
+# Docker volumes
+volumes/
+
+# Large ML stuff
+*.pt
+*.pth
+*.ckpt
+*.bin
